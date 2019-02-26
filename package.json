@@ -1,0 +1,22 @@
+{
+  "name": "aivideosyb",
+  "version": "1.0.0",
+  "description": "AI videos creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryjapa/AIVideosYB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tryjapa/AIVideosYB/issues"
+  },
+  "homepage": "https://github.com/tryjapa/AIVideosYB#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
